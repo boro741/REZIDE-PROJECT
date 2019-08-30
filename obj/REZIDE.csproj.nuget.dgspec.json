@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\H376432\\source\\repos\\REZIDE\\REZIDE.csproj": {}
+    "C:\\Users\\H376432\\Documents\\GitHub\\REZIDE\\REZIDE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\H376432\\source\\repos\\REZIDE\\REZIDE.csproj": {
+    "C:\\Users\\H376432\\Documents\\GitHub\\REZIDE\\REZIDE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\H376432\\source\\repos\\REZIDE\\REZIDE.csproj",
+        "projectUniqueName": "C:\\Users\\H376432\\Documents\\GitHub\\REZIDE\\REZIDE.csproj",
         "projectName": "REZIDE",
-        "projectPath": "C:\\Users\\H376432\\source\\repos\\REZIDE\\REZIDE.csproj",
+        "projectPath": "C:\\Users\\H376432\\Documents\\GitHub\\REZIDE\\REZIDE.csproj",
         "packagesPath": "C:\\Users\\H376432\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\H376432\\source\\repos\\REZIDE\\obj\\",
+        "outputPath": "C:\\Users\\H376432\\Documents\\GitHub\\REZIDE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
